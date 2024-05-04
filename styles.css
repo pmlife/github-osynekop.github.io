@@ -1,0 +1,58 @@
+body {
+    font-family: "Beckman Regular";
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+header {
+    background-color: #fff;
+    color: #333;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header img {
+    width: 100px;
+    height: auto;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #fff;
+    color: #333;
+    padding: 10px;
+    text-align: center;
+}
